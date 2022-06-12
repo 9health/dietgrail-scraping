@@ -86,11 +86,11 @@ This script uses these applications and Python libraries to crawl data from [Die
 | `WEBPAGE_LOAD`           |   2.7             | sec      | Wait time between web pages
 | `WEBPAGE_PAUSE`          |   10              | page     | Number of pages to pause
 | `WEBPAGE_PAUSE_TIME`     |   90              | sec      | Pause time between two pages
-| `WEBPAGE_CHART_ON`       |   0               | -        | Enable chart scraping (`0`: OFF, `1`: ON)
-| `WEBPAGE_OFFLINE_PARSE`  |   0               | -        | Enable offline pages processing only (`0`: OFF, `1`: ON)
+| `WEBPAGE_CHART_ON`       |   0               | -        | Enable chart scraping<br />(`0`: OFF, `1`: ON)
+| `WEBPAGE_OFFLINE_PARSE`  |   0               | -        | Enable offline pages processing only<br />(`0`: OFF, `1`: ON)
 | `GI_START_PAGE`          |   1               | page     | Start page to scrape
 | `GI_STOP_PAGE`           |   219             | page     | Stop page to scrape
-| `GI_LAST_PAGE`           |   219             | page     | Last page to scrape. It should be larger than stop page
+| `GI_LAST_PAGE`           |   219             | page     | Last page to scrape.<br />It should be larger than stop page
 | `GI_ROW_NUM`             |   14              | row      | Number of rows in a page
 | `GI_ROW_NUM`             |   4               | column   | Number of colums in a page
 
@@ -129,3 +129,4 @@ This script uses these applications and Python libraries to crawl data from [Die
 - [Attaching files](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/attaching-files)
 - [About anonymized URLs](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/about-anonymized-urls)
 - [Proxying User Images](https://github.blog/2014-01-28-proxying-user-images/)
+- [How do I add a newline in a markdown table?](https://stackoverflow.com/questions/11700487/how-do-i-add-a-newline-in-a-markdown-table)
