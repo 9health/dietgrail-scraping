@@ -67,5 +67,5 @@ This script is using this stack
 
 ## References
 
-- [Taiga 2 Readme](https://raw.githubusercontent.com/broadinstitute/taiga/master/README.md)
+- [Taiga 2 Readme](https://github.com/broadinstitute/taiga/blob/master/README.md)
 - [Install pip, pyenv, BeautifulSoup4](https://linuxtut.com/en/1806ef4176fea50ae01d/)
