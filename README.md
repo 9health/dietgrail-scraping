@@ -103,9 +103,15 @@ This script uses these applications and Python libraries to crawl data from [Die
 
 [DietGrail GI and GL of Foods](http://dietgrail.com/gid/) first page
 
+<img width="745" alt="First Page" src="readme-screenshots/Screenshot%202022-06-13%20at%2001-35-25%20Glycemic%20Index%20&%20Glycemic%20Load%20of%20Foods.png">
+
 [DietGrail GI and GL of Foods](http://dietgrail.com/gid/) last page
 
+<img width="745" alt="Last Page" src="readme-screenshots/Screenshot%202022-06-13%20at%2001-35-35%20Glycemic%20Index%20&%20Glycemic%20Load%20of%20Foods.png">
+
 [DietGrail GI and GL of Foods](http://dietgrail.com/gid/) with chart
+
+<img width="745" alt="With Chart" src="readme-screenshots/Screenshot%202022-06-13%20at%2001-35-49%20Glycemic%20Index%20&%20Glycemic%20Load%20of%20Foods.png">
 
 ## References
 
@@ -115,3 +121,11 @@ This script uses these applications and Python libraries to crawl data from [Die
 - [GitHub relative link in Markdown file](https://stackoverflow.com/questions/7653483/github-relative-link-in-markdown-file)
 - [GitHub Markup Sample](https://github.com/github/markup/blob/master/README.md#markups)
 - [How to add images to README.md on GitHub?](https://stackoverflow.com/questions/14494747/how-to-add-images-to-readme-md-on-github)
+- [How do I create a folder in a GitHub repository?](https://stackoverflow.com/questions/12258399/how-do-i-create-a-folder-in-a-github-repository)
+- [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [how to link to a file with spaces in the filename in github README.md](https://stackoverflow.com/questions/47050129/how-to-link-to-a-file-with-spaces-in-the-filename-in-github-readme-md)
+- [GitHub relative link in Markdown file](https://stackoverflow.com/questions/7653483/github-relative-link-in-markdown-file)
+- [Using content attachments](https://docs.github.com/en/enterprise-server@3.3/developers/apps/guides/using-content-attachments)
+- [Attaching files](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/attaching-files)
+- [About anonymized URLs](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/about-anonymized-urls)
+- [Proxying User Images](https://github.blog/2014-01-28-proxying-user-images/)
