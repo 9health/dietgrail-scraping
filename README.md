@@ -92,7 +92,7 @@ This script uses these applications and Python libraries to crawl data from [Die
 | `GI_STOP_PAGE`           |   219             | page     | Stop page to scrape
 | `GI_LAST_PAGE`           |   219             | page     | Last page to scrape.<br />It should be larger than stop page
 | `GI_ROW_NUM`             |   14              | row      | Number of rows in a page
-| `GI_ROW_NUM`             |   4               | column   | Number of colums in a page
+| `GI_ROW_NUM_LAST `       |   4               | row      | Last number of rows in the last page
 
 ## Other Notes
 
