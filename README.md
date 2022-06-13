@@ -45,7 +45,7 @@ This script uses these applications and Python libraries to crawl data from [Die
 
 5. Install Python packages:
 
-       pyenv exec pip install beautifulsoup
+       pyenv exec pip install beautifulsoup4
        pyenv exec pip install requests
        pyenv exec pip install selenium
        pyenv exec pip install pyautogui
